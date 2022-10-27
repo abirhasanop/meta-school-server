@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Google Ads"
+    },
+    {
+        "id": "02",
+        "name": "Facebok Ads"
+    },
+    {
+        "id": "03",
+        "name": "SEO"
+    },
+    {
+        "id": "04",
+        "name": "Content Marketing"
+    },
+    {
+        "id": "05",
+        "name": "Email Marketing"
+    },
+    {
+        "id": "07",
+        "name": "All"
+    }
+]
